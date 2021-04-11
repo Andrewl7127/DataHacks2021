@@ -1,0 +1,10 @@
+dataset,importance
+educ_train.csv,0.9918671026825905
+heal_train.csv,0.008132870309054852
+busi_train.csv,0.0
+econ_train.csv,0.0
+envi_train.csv,0.0
+gove_train.csv,0.0
+pers_train.csv,0.0
+safe_train.csv,0.0
+soci_train.csv,0.0

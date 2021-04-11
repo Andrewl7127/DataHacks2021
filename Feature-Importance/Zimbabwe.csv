@@ -1,0 +1,9 @@
+dataset,importance
+busi_train.csv,0.6546992711444871
+heal_train.csv,0.31908453256964736
+gove_train.csv,0.311643513862017
+soci_train.csv,0.2540223907411249
+econ_train.csv,0.11836626347297433
+pers_train.csv,0.014931572593176207
+safe_train.csv,-0.030973468802378848
+educ_train.csv,-0.13081057295331136
