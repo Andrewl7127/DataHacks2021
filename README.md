@@ -19,7 +19,7 @@ One of the first tasks that we did was explore the data. We noticed that for all
 
 ## c. Data Visualization
 
-In order to best represent our five visualizations, we created a separate heroku app to allow for different levels of interactivity from the user ([Visualization Dashboard ](http://datahacks-2021.herokuapp.com/)).
+In order to best represent our five visualizations, we created a separate heroku app to allow for different levels of interactivity from the user ([Visualization Dashboard](http://datahacks-2021.herokuapp.com/)).
 
 ### Visualization #1 (Top 5 Countries By Prosperity Score)
 
