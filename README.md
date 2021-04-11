@@ -33,7 +33,7 @@ In our second visualization, we aimed to recognize how different variables are c
 
 From the correlation matrix heatmap above, we recognized that two pillars that are most correlated with change in prosperity are gove (Governance) and busi (Business Environment). Using interactive visualization libraries, we created a 3D scatterplot to investigate what trends exist across the gove and busi pillars and prosperity score across the top 5 countries with the most overall growth. The 3D Scatterplot can be rotated and if the ‘Play’ button is clicked a simple animation displays a 180 degree view of our figure. Interestingly, across the top 5 nations with the most overall prosperity growth, there appears to be a direct relationship between gove, busi, and prosperity score across each axis.
 
-### Visualization #4 (Prosperity % Change (2007-2014)
+### Visualization #4 (Prosperity % Change (2007-2014))
 
 In order to validate our claims made concerning the top 5 countries we looked towards mapping percent change in prosperity score across all nations. This led us to create a global choropleth, with a focus on the percent change since 2007. Right from the start many nations in Africa distinguish themselves with Chad and Zimbabwe benign frontrunners. As time goes on, there is a clear trend with many African nations - namely in Central/Western Africa (i.e. Toga, Ivory Coast) - slowly becoming more and more prosperous relative to 2007. 
 
