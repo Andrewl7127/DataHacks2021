@@ -27,7 +27,7 @@ In order to determine the top 5 nations with the most growth in prosperity overa
 
 ### Visualization #2 (Correlation Matrix Heatmap)
 
-In our second visualization, we aimed to recognize how different variables are correlated to one another - chiefly the correlation coefficient between the percent change of different pillars and the percent change in prosperity score. To achieve this, we created 9 new columns (based on the 9 pillar scores) and looked at the percent change in each pillar between 2007 and 2014. The reason for this is to look at what percent change in pillars is most most correlated with percent change in prosperity. We found that percent change in gove (Governance) is most correlated with percent change in prosperity. As such, gove is likely to have the most significant impact on predicting country prosperity in the future. We explore this relationship in greater detail by ranking feature importance below.
+In our second visualization, we aimed to recognize how different variables are correlated to one another - chiefly the correlation coefficient between the percent change of different pillars and the percent change in prosperity score. To achieve this, we created 9 new columns (based on the 9 pillar scores) and looked at the percent change in each pillar between 2007 and 2014. The reason for this is to look at what percent change in pillars is most most correlated with percent change in prosperity. We found that percent change in gove (Governance) is most correlated with percent change in prosperity. As such, gove is likely to have the most significant impact on predicting country prosperity in the future. We explore this relationship in greater detail in part d.
 
 ### Visualization #3 (3D Scatterplot: Pillars vs. Prosperity)
 
