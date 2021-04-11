@@ -1,4 +1,7 @@
 numpy==1.19.4
 pandas
 streamlit==0.73.1
-tensorflow==2.0.0
+evalml --no-dependencies
+sklearn
+featuretools
+xgboost
