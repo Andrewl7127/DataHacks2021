@@ -1,7 +1,6 @@
 import streamlit as st
 
 import app1, app2
-import streamlit as st
 
 
 Pages = {"Predict Scores": app1, "Visualize Data": app2}

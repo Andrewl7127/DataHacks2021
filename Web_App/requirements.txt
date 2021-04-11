@@ -1,7 +1,5 @@
-numpy==1.19.4
+numpy 
 pandas
 streamlit==0.73.1
-evalml --no-dependencies
-sklearn
+evalml == 0.15.0
 featuretools
-xgboost
